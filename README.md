@@ -130,11 +130,11 @@ This section collects open-source iris recognition systems, toolkits, and softwa
 | System / Toolkit | Main Functionality | Link |
 |---|---|---|
 | Notre Dame Open-Source Iris Recognition | [[Paper]](https://arxiv.org/abs/2605.20735) | [[Code]](https://github.com/CVRL/OpenSourceIrisRecognition/tree/main) |
-| IRIS: Iris Recognition Inference System | [[Blog post]](https://world.org/blog/engineering/iris-recognition-inference-system) |[[GitHub]](https://github.com/worldcoin/open-iris) |
+| IRIS: Iris Recognition Inference System | [[Blog post]](https://world.org/blog/engineering/iris-recognition-inference-system) |[[Code]](https://github.com/worldcoin/open-iris) |
 | VISIrisHub| [[Paper]](https://arxiv.org/abs/2512.15548) | [[Code]](https://github.com/naveengv7/VISIrisHub) |
 | USIT v3.0.0| [[Paper]](https://link.springer.com/chapter/10.1007/978-1-4471-6784-6_16) | [[Code]](https://www.wavelab.at/sources/Rathgeb16a/) |
 | OpenIris| [[Paper]](https://doi.org/10.1145/3649902.3653348) | [[Code]](https://github.com/ocular-motor-lab/OpenIris) |
-| OSIRIS | [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865515002986) |[[GitHub]](https://github.com/Mango233/Osiris) [[osiris-Docker]](https://github.com/tohki/iris-osiris) [[osiris_vmbox]](https://github.com/ClarksonCITeR/osiris_vmbox) |
+| OSIRIS | [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865515002986) |[[Code]](https://github.com/Mango233/Osiris) [[osiris-Docker]](https://github.com/tohki/iris-osiris) [[osiris_vmbox]](https://github.com/ClarksonCITeR/osiris_vmbox) |
 | IR-MATLAB | [[Paper]](https://peterkovesi.com/studentprojects/libor/LiborMasekThesis.pdf) | [[Code]](https://peterkovesi.com/studentprojects/libor/sourcecode.html) |
 | VeriEye (**commercial**) |  | [[30-day SDK Trial]](https://www.neurotechnology.com/verieye.html) |
 
