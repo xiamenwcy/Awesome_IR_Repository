@@ -141,7 +141,7 @@ This section collects open-source iris recognition systems, toolkits, and softwa
 <a name="VR/AR"/></a>
 ## VR/AR-related Iris Biometrics
 
-- Mi Y, Yuan Q, Zhong Z, et al. ImmerIris: A Large-Scale Dataset and Benchmark for Immersive Iris Recognition in Open Scenes[J]. arXiv e-prints, 2025: arXiv: 2510.10113. [[Paper]](https://arxiv.org/abs/2510.10113v1)
+- Mi Y, Yuan Q, Zhong Z, et al. ImmerIris: A Large-Scale Dataset and Benchmark for Immersive Iris Recognition in Open Scenes[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 28838-28847. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Mi_ImmerIris_A_Large-Scale_Dataset_and_Benchmark_for_Off-Axis_and_Unconstrained_CVPR_2026_paper.html)
 - Baek J, Park Y, Seok C, et al. Noise-robust biometric authentication using infrared periocular images captured from a head-mounted display[J]. Electronics, 2025, 14(2): 240.[[Paper]](https://www.mdpi.com/2079-9292/14/2/240)  
 - Sharma G, Nagaich D, Jaswal G, et al. Vreyesam: Virtual reality non-frontal iris segmentation using foundational model with uncertainty weighted loss[C]//2025 IEEE International Joint Conference on Biometrics (IJCB). IEEE, 2025: 1-9.[[Paper]](https://ieeexplore.ieee.org/abstract/document/11411123/) [[Code]](https://github.com/GeetanjaliGTZ/VREyeSAM)
 - D. Lohr, M. J. Proulx, M. H. Raju and O. V. Komogortsev, "Ocular Authentication: Fusion of Gaze and Periocular Modalities," 2025 IEEE International Joint Conference on Biometrics (IJCB), Osaka, Japan, 2025, pp. 1-12.[[Paper]](https://ieeexplore.ieee.org/document/11411028)
