@@ -138,7 +138,7 @@ This section collects open-source iris recognition systems, toolkits, and softwa
 | OSIRIS | [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865515002986) |[[Code]](https://github.com/Mango233/Osiris) [[osiris-Docker]](https://github.com/tohki/iris-osiris) [[osiris_vmbox]](https://github.com/ClarksonCITeR/osiris_vmbox) |
 | IR-MATLAB | [[Paper]](https://peterkovesi.com/studentprojects/libor/LiborMasekThesis.pdf) | [[Code]](https://peterkovesi.com/studentprojects/libor/sourcecode.html) |
 | VeriEye (**commercial**) |  | [[30-day SDK Trial]](https://www.neurotechnology.com/verieye.html) |
-| Open closed eyes classification |  | [[Code]](https://github.com/PINTO0309/OCEC/tree/main) |
+| Open closed eyes classification |  | [[Code]](https://github.com/PINTO0309/OCEC/tree/main) [[Dataset]](https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes) |
 | MediaPipe Iris | [[Blog]](https://research.google/blog/mediapipe-iris-real-time-iris-tracking-depth-estimation/) | [[Face, Iris, and Gaze Estimation]](https://github.com/VincentChoi33/face-iris-gaze-estimation) |
 
 <a name="VR/AR"/></a>
