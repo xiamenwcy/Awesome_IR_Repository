@@ -131,6 +131,7 @@ This section collects open-source iris recognition systems, toolkits, and softwa
 | System / Toolkit | Main Functionality | Link |
 |---|---|---|
 | Notre Dame Open-Source Iris Recognition | [[Paper]](https://arxiv.org/abs/2605.20735) | [[Code]](https://github.com/CVRL/OpenSourceIrisRecognition/tree/main) |
+| Iriscan Biometric SDK (Android, iOS, JVM; Kotlin Multiplatform, GPL-3.0) | [[Docs]](https://docs.iriscan.net/) | [[Code]](https://github.com/biometric-technologies/biometric-sdk) |
 | IRIS: Iris Recognition Inference System | [[Blog]](https://world.org/blog/engineering/iris-recognition-inference-system) |[[Code]](https://github.com/worldcoin/open-iris) |
 | VISIrisHub| [[Paper]](https://arxiv.org/abs/2512.15548) | [[Code]](https://github.com/naveengv7/VISIrisHub) |
 | USIT v3.0.0| [[Paper]](https://link.springer.com/chapter/10.1007/978-1-4471-6784-6_16) | [[Code]](https://www.wavelab.at/sources/Rathgeb16a/) |
