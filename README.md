@@ -43,7 +43,9 @@ A list of existing databases of human iris images is available at [https://irisd
 - Nguyen K, Proença H, Alonso-Fernandez F. Deep learning for iris recognition: A survey[J]. ACM Computing Surveys, 2024, 56(9): 223.[[Paper]](https://dl.acm.org/doi/full/10.1145/3651306)   
 - Jenadeleh M, Pedersen M, Saupe D. Blind quality assessment of iris images acquired in visible light for biometric recognition[J]. Sensors, 2020, 20(5): 1308.[[Paper]](https://www.mdpi.com/1424-8220/20/5/1308)  
 - Wang L, Zhang K, Ren M, et al. Recognition oriented iris image quality assessment in the feature space[C]//2020 IEEE International Joint Conference on Biometrics (IJCB). IEEE, 2020: 1-9.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9304896/) [[Code]](https://github.com/Debatrix/DFSNet) 
-- Li X, Sun Z, Tan T. Comprehensive assessment of iris image quality[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 3117-3120.[[Paper]](https://ieeexplore.ieee.org/abstract/document/6116326) 
+- Li X, Sun Z, Tan T. Comprehensive assessment of iris image quality[C]//2011 18th IEEE International Conference on Image Processing. IEEE, 2011: 3117-3120.[[Paper]](https://ieeexplore.ieee.org/abstract/document/6116326)
+- [[iris-iqm]](https://pypi.org/project/iris-iqm/) : Use the original iris image of a single eye as the input. No separate iris mask is required. **Open-sourced Python Package, which is ported from MITRE’s [[BIQT-Iris]](https://github.com/mitre/biqt-iris)**!
+- [[Iris-image-quality-assessment]](https://github.com/Kozlowski-Bartosz/Iris-image-quality-assessment): An iris segmentation mask and boundary parameters are required. **Open-sourced Python Package**.
 
 <a name="iris-pad"/></a>
 ## Iris Presentation Attack Detection
